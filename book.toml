@@ -1,0 +1,13 @@
+[book]
+authors = ["Charon Charpentier"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Ruled Power"
+
+[output.html]
+theme = "light"
+default-theme = "light"
+preferred-dark-theme = "navy"
+git-repository-url = "https://github.com/d3centr/ruled-power"
+
