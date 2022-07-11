@@ -44,5 +44,5 @@ focus on what matters within those details.
 1.0.0
 
 #### Online Book
-<https://trustless.land/ruled-power>
+<https://power.trustless.land>
 

@@ -1,6 +1,6 @@
 # Ruled Power
 
-Raw text of protocol manifesto hosted on *trustless.land*/[ruled-power](https://trustless.land/ruled-power).
+raw text of protocol manifesto hosted on [power.trustless.land](https://power.trustless.land)
 
 In this book:
 > 48 principles develop the big picture of economic protocols.
