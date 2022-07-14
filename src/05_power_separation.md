@@ -18,7 +18,7 @@ It has been closed into a tripartite loop by Conway's law:\
 linking communication to (price) systems (of economic rules).\
 \- Our specific application of the law has been parenthesized. -\
 A system of rules is a protocol and the economy is an ecosystem.\
-It is made of communication, price and protocol subsystems.\
+It is made of communication, price and rule subsystems.\
 As examples of looped and intertwined dependencies across the paradigm:\
 prices communicate changes driven by protocols, influenced by prices;\
 communication structures protocols and value their token prices;\

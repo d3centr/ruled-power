@@ -238,11 +238,11 @@ The home state does not facilitate all conducts to preserve the consensus.\
 Digital transactions enforce appropriate contracts.\
 Personal token allocation is tied to a system of rules.\
 Foreign policies bypassing sanctioned LPIs are also allowed.\
-But residents of each side must first enter a bilateral agreement.\
+But residents of each side must then first enter a bilateral agreement.\
 This creates a market of alternative policies.\
-They are regarded as public bilateral contracts by the authority.\
+They are regarded as private bilateral contracts by the authority.\
 Private entities are allowed to override the public agreement.\
-Should they agree to do so, domestic laws still prevail.\
+Should they agree to do so across a border, domestic laws still prevail.\
 Bilateral contracts can be promoted to endorsed policies.\
 National LPIs reward the design of innovative foreign policies.\
 Or alternative jurisdictions can grow peacefully within a state.

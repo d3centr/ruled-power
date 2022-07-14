@@ -95,8 +95,8 @@ Among bilateral management powers, Doer manages what Maker legislates.\
 When not intermediated, User oversees as a third-party judge.\
 Of course, usage itself is regulated by management powers.\
 As such, all three powers are governed by two others.\
-However, the exercise of a power map to a single economic subsystem.\
-Communication, price and protocol subsystems map to Maker, User and Doer.\
+However, the exercise of a power maps to a single economic subsystem.\
+Communication, price and rule subsystems map to Maker, User and Doer.\
 All three must be tightly integrated in their power exercise only.\
 The confusion of a power exercise with its governance brings dysfunctions.\
 Governance power mapping to a subsystem isolates oligarchic institutions.\
