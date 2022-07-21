@@ -115,7 +115,7 @@ An executive of competing organizations has been replaced by softwares.\
 And in the early-day tokenomy, autonomous organizations legislate.\
 But they better be knowledge systems to leverage communication.\
 Thereby, each power maps to a functional and economic component.\
-Communication, price and protocol subsystems roughly map to:\
+Communication, price and rule subsystems roughly map to:\
 the legislative, the judiciary and the executive.\
 Conway's law explicitly relates an informed DAO to a utilitarian Dapp:\
 undirected communication graphs devise fair systems of bilateral rules.\
@@ -130,7 +130,7 @@ Strict parents have been wise enough not to micromanage their kids.
 
 Judgment's decentralization democratized the perfection of Conway's law.\
 Without a built-in consensus mechanism, digital laws topple republics.\
-On the blockchain, the executive became a legislative order.\
+On the blockchain, a distributed executive became a legislative order.\
 It contrasts with presidential and executive orders bypassing a congress.\
 A programmable DLT aligns management powers in a new State of the art.\
 Organizations are their own master and legislate a cooperative executive.\

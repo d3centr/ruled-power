@@ -124,12 +124,16 @@ Smart contracts are now more palatable to variety in a wider audience.
 
 *d. NFT intermediation*
 
+> A system of partial, adaptive and tokenized jurisdictions seems promising.\
+Policy markets offer live and multiple-winner votes on legislation.\
+Relative governance solves acute political issues rooted in absolutism.
+
 Absolute differences and relative equalities define NFTs and FTs.\
 Denominations are not interchangeable but currencies are exchangeable.\
-Scale matters.\
-Currency is a NFT among commodities.\
-Denomination is a NFT among currencies.\
-Amount is a NFT among a denomination's coins.\
+Scale matters to examine what a token represents: a share or an identity.\
+Currency is a NFT among commodities; a distinction in a homogeneous group.\
+Denomination is the NFT of currencies; an identity of exchangeable tokens.\
+Amount is the NFT of a denomination; the unique value in a set of coins.\
 The singular is a NFT among the up and down plural.\
 A NFT is a NFT within a collection but also among its own fungible shares.\
 A NFT is the representative of a lower distribution in a higher assembly.\
@@ -148,7 +152,7 @@ A conflict resolution is a NFT deconstruction and reconstruction.\
 The final arrangement is as unique as the allocation of fungible tokens.
 
 Territorial jurisdictions are mutually exclusive.\
-But tokens make jurisdictions share territories.\
+On the contrary, tokenized jurisdictions share territories.\
 Decoupled from the land where people live, jurisdictions are traded.\
 They cannot be imposed.\
 Like borders, tokens delimit jurisdictions;\
@@ -230,7 +234,7 @@ A market and a token exchange give access to a different jurisdiction.\
 A sold citizenship token acquires the right of a foreign power regulation.\
 Tokenized jurisdictions rule for the people of the world.
 
-The beauty is that foreign policies are never completely imposed.\
+Markets of foreign policies do not succumb to the tyranny of the majority.\
 When a nation does not back a foreign policy, individuals are still free.\
 They can stake their own responsibility to choose an unendorsed policy.\
 The foreign LPI is always ready to accept deals with willing individuals.\
@@ -264,10 +268,15 @@ and villains to find a culprit for our misfortunes.\
 On the contrary, deals should work for ordinary people.
 
 The Heads of each side of the line introduced foreign LPIs as such:
-> Would you rather be governed by democratic markets or politics?
+> Would you rather be governed by policies or politicians?\
+The government won't give up on its supranational responsibility.\
+Yet, you will be free to disagree and act accordingly.\
+Authority will be granted by tokens for the provision of desired policies.\
+Tokenized jurisdictions outprice lobbying in markets of free contracts.\
+We will generally agree to disagree on the specifics to govern together.
 
-Markets are meant to facilitate exchanges:\
-the contribution of one another towards each other.\
+Markets, contracts, or even more markets of contracts enable exchanges:\
+the contribution of one another towards each other, fairly and safely.\
 Horizontal liquidity mitigates bias in crowdsourced influence.\
 In the stock market, retail investors have a greater say than CEOs.\
 Influencers or politicians seek to skew wealth for cases bigger than them.\
@@ -276,7 +285,7 @@ It provides vertical liquidity in a centralized world order when required.\
 But peace needs no expert knowledge and conflict even less followers.\
 We all deeply understand the consequences of weaponized battles.\
 When war is portrayed as a governing whim, stakeholders are good or evil.\
-In "War *or* Peace", war excludes peace and vice versa.\
+In "War *or* Peace", war excludes peace and vice versa; there is no trade.\
 The success of "War *and* Peace" was made by an inclusive conjunction.\
 Surrounded by a collection of intents, borders get stuck in consensus.
 

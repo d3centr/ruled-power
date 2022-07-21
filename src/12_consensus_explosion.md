@@ -23,20 +23,25 @@ The breakdown of conformity produces seismic ripple effects.\
 This awareness makes lawmakers highly conservative.\
 Compliance imposes a narrow scope.\
 It is so tight that innovation bubbles skyrocket whenever an escape looms.\
-Speculative frenzy gives our Economy a spring break.\
 The derived effectiveness of strict laws comes at a high opportunity cost.\
 Co-creation, ecosystem services, micro-contributions, local economies;\
 and countless worthwhile activities in the public domain lack facilities.\
 They'd be criminals, should they tokenize lightweight currencies to exist.\
 They have not yet found the marketplace to become sustainable;\
-or weight against an arbitrary financial scale.\
+or weight against an arbitrary financial scale.
+
+A single rule is a single best.\
+Central regulation excludes economic minorities.\
+Power concentration is also a concentration of hard opinions.\
+Parallel jurisdictions depolarize society; no winner takes it all.\
+Conflicting issues are due to the monopoly of the Law;\
+which is financed by another monopoly: the issuance of currency.\
 Horizontal accessibility is a process of decentralization.\
 This process will bring a diversity of rules and opinions.\
 For a more resilient future, they will be eager to invest in alternatives.\
 A myriad of arrangements widens financial commitment to public utility.\
 Exclusive utility will remain in the private domain.\
-Privileges have no price unless given up.\
-We will buy them out.\
+Privileges have no price unless given up; we will buy them out.\
 Eventually, central governance will recognize the need for specialization.\
 Governments will offer institutional composability to attract businesses.\
 Law Programming Interfaces (LPI) will provide a lean frame of free rules.\
