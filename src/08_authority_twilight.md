@@ -102,10 +102,10 @@ Pseudonymity, that is.\
 How could day agree with night without twilight?\
 There is no privacy when there is nothing to hide.\
 Pseudonymous protocols reconcile transparency with anonymity.\
-The action is the regulated identity.\
+Public action is the regulated identity.\
 A private name is only required to hand out fines.\
 They are patches made for dysfunctional protocols.\
-Let's just make sure that we do not design systems to incentivize abuse.
+Let's first make sure that we do not design systems to incentivize abuse.
 
 ### Cognition over Ideology
 

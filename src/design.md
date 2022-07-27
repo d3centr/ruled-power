@@ -6,6 +6,8 @@
 
 ---
 
+> One does not design a protocol but the system designing it.
+
 ## Laws
 
 Let
@@ -97,4 +99,6 @@ O     O : listeners or emitters                       id.: decentral s.ss
 | Tokenomy | market | EVM | AMM |
 | Economy | market | tax office | fiscality |
 | ... | ... | ... | ... |
+
+A protocol inherits the features of management.
 

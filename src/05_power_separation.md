@@ -158,7 +158,7 @@ We went from small hacks and big taxes to big hacks and small taxes.\
 The new scales of authority and creativity inverted redistribution norms.\
 The Economy and the Tokenomy balance out taxing hacks and hacking taxes.\
 A technocratic and capitalized industry would better stick to an Economy.\
-Big taxes are an assurance to a company's treasury.\
+Bigger taxes insure a company's treasury.\
 Open source and decentralized apps represent the tokenomic archetype.\
 Low taxes make up for the loss of intellectual property on a bigger base.
 
