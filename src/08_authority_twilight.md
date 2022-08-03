@@ -176,26 +176,26 @@ Solving expensive knowledge in mediation locks a control over dependence.\
 The economy of knowledge acquisition allocates governance powers.\
 Pre-merge Ethereum showed accessibility is no less centralized than not.\
 A staking platform lowered barriers of entry for passive income.\
-The heavily marketable service turned a gateway into a backdoor.\
+The heavily marketable service turned a gateway into a perceived backdoor.\
 It only became a concern when capital concentration grew a bias.\
-As always, the last regulation mechanism left was social backlash.\
-We'd rather regulate than kill authority because of despotic structures.
+As always, the last regulation mechanism left was social backlash;\
+until creators went on to decentralize control. 
 
-Accessibility had been set in a minimum amount of staked ETH.\
-The market size distributed contributions and returns above a threshold.\
-It aimed to strike a balance between technocratic and worthless funding.\
-Great demand asked to remove the threshold in an unregulated market.\
+Too much decentralization occurs when the job is well done, but half done.\
+Accessibility reinforces centralizing managers before they realize it.\
+Governance tokens should perhaps not be separate from committed stakes.\
+Thereby, they would represent the already distributed user base.\
+It's a starting point; total value staked by provider is split by staker.\
 A service opened up opportunities like a provision of equal rights.\
 But a passive income skew incentivizes more extraction than contribution.\
 Yield farmers do not cultivate the field of their harvest.\
 The danger is mostly misaligned interest in governance.\
 A stake turned into a liquidity pool creates a partial free-rider problem.\
+At least, active investing deserves credit for engaging mutual interests.\
 A prover market would solve the centralizing issue of passive income.\
-PoS farmers could invest into provers able to stake funds.\
-A staking platform did a great job at funding.\
-The service utility could be baked into the protocol.\
-If it should, we don't know; we only need to close this chapter.\
-We merely debated how to manage the manager; devs will figure it out.
+PoS farmers could directly invest into shares of validators able to stake.\
+Not sure if they should, though; token holders will figure it out.\
+We merely debated how to manage the manager.
 
 Knowledge graphs design utilitarian systems without an architect.\
 Guidance stems from affected individuals.\

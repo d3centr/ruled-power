@@ -57,7 +57,8 @@ An objective measure would hinder the pursuit of several concurrent goals.\
 All activities must be maintained when they profit a desired market.\
 An economic actor facing a dire uncertainty might choose to prioritize it.\
 A chosen contingency over a return would be reflected in the price.\
-The goal does not need to be stated among independent actors.\
+The goal does not need to be stated among independent actors.
+
 Trade is over-optimized for growth at the expense of everything else.\
 We do not treat the economy as an ecosystem.\
 Similarly, a Formula One car is too optimized for speed.\
@@ -68,7 +69,10 @@ The economy is not a sport.\
 It is first a livelihood.\
 For anyone to reach any objective, an economic ecosystem is the approach.\
 When growth is going up, something which isn't measured is going down.\
-We will focus on growth the day when everything we care about is included.
+We will focus on growth the day when everything we care about is included.\
+Global growth is needed to absorb the inflation's cost of central money.\
+Decentralized currencies tend to be deflationary by design.\
+No one stands above issuance; holders never get poorer in the same token.
 
 ### Open Knowledge
 
@@ -89,7 +93,7 @@ Competitors could have pooled their common offering for half the cost;\
 get to the same results;\
 and invest 4 times more into what makes them better.\
 Free knowledge would lead companies relying on IP to bankruptcy, though.\
-It would hold if all started on a level playing field of open knowledge.\
+It would hold if all had started on a level playing field of open IP.\
 It is not only about the global efficiency of resource utilization.\
 Confrontational environments orient participants towards short-term moves.\
 Under survival stress, they put their own company at unsustainable risk.\

@@ -41,7 +41,7 @@ focus on what matters within those details.
 
 #### Version
 
-1.0.4
+1.0.5
 
 #### Online Book
 <https://power.trustless.land>
