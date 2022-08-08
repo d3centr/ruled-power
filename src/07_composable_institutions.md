@@ -150,7 +150,7 @@ while leaving enough influence to bring personal interests forward.\
 Separated powers deprived from distribution must resort to authority.\
 In the exercise of their function, they do not leave room for consensus.\
 When distributing particles of maker and doer privileges to users;\
-management powers disintegrate for the interest of superior governance.\
+management powers disintegrate in the interest of superior governance.\
 In an airdrop of tokens, the tripartite ecosystem becomes a common:\
 a decentralized monopoly of collective powers and personal rights.\
 Infinite configurations and unique arrangements are made possible.\

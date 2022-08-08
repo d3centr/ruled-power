@@ -140,6 +140,6 @@ Financial markets do not reflect people's aspirations.\
 In fact, cats and dogs, pet figures, made cryptocurrency breakthroughs.\
 Expensive cartoon animals testify to the progress of monetization.\
 Imagination, not marketing; innovation or prospects, reached new heights.\
-Between the corner of a metaverse and the real world:\
-a galaxy of projects shine to discover their own rules for prosperity.
+Between corners of a metaverse and the real world, one finds a new galaxy.\
+There, projects shine to discover their own rules for prosperity.
 
