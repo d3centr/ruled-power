@@ -102,7 +102,25 @@ they do not make the predisposition to engage with a NFT less relevant.
 
 *c. precious mechanics*
 
-The magic happens when non-fungibility becomes liquid.\
+A mechanism assuming the provision of liquidity creates staking growth.\
+The Tokenomy expansion is all driven by Collateralized Liquidity.\
+This dimension measures DeFi growth better than Total Value Locked,\
+which attracts CeFi funds with trends of vanity metrics. \
+At the end of the day, a tokenomic success won't be measured in fiat.\
+It won't be made out of thin air but will be backed by liquid collaterals.\
+Aave and Uniswap address both illiquidity in different price systems.\
+Tokenized protocols free value trapped in missing or controlled systems.\
+We'd all be much richer if we did not own more value but unlocked it.\
+Saving gluts give the scale of the loss in working capital.\
+Cash-trapped value is begging to be tokenized.\
+Fungible means of exchange can only represent normalized commodities.\
+This goes against the very nature of what makes something unique valuable.\
+Tokens are the future of currencies and the end of conformity.\
+Non-fungible wealth, identity and regulation have yet to become liquid.\
+Policy swaps will deprecate banks and passports.\
+The magic of NFT is in the last letter because it exchanges the first two.
+
+The NFT magic happens when non-fungibility becomes liquid.\
 Social validation of singularity synergizes prices upwards in a community.\
 It confers to the NFT a soft power superior to self-expression.\
 Recognition of a difference personalizes shared opportunities.\
@@ -124,7 +142,7 @@ Smart contracts are now more palatable to variety in a wider audience.
 
 *d. NFT intermediation*
 
-> A system of partial, adaptive and tokenized jurisdictions seems promising.\
+> A system of partial, liquid and tokenized jurisdictions seems promising.\
 Policy markets offer live and multiple-winner votes on legislation.\
 Relative governance solves acute political issues rooted in absolutism.
 

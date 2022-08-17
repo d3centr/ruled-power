@@ -186,7 +186,7 @@ Accessibility reinforces centralizing managers before they realize it.\
 Governance tokens should perhaps not be separate from committed stakes.\
 Thereby, they would represent the already distributed user base.\
 It's a starting point; total value staked by provider is split by staker.\
-A service opened up opportunities like a provision of equal rights.\
+A service opened up opportunities in a provision of new rights.\
 But a passive income skew incentivizes more extraction than contribution.\
 Yield farmers do not cultivate the field of their harvest.\
 The danger is mostly misaligned interest in governance.\
