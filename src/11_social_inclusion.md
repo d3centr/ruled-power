@@ -71,8 +71,8 @@ For anyone to reach any objective, an economic ecosystem is the approach.\
 When growth is going up, something which isn't measured is going down.\
 We will focus on growth the day when everything we care about is included.\
 Global growth is needed to absorb the inflation's cost of central money.\
-Decentralized currencies tend to be deflationary by design.\
-No one stands above issuance; holders never get poorer in the same token.
+Decentralized currencies can be deflationary by design.\
+If no one stands above issuance, holders do not have to get poorer.
 
 ### Open Knowledge
 
