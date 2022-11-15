@@ -213,7 +213,16 @@ After a vote, populations lose control of elected representatives.\
 Democratic representation rules only the accession to power;\
 which is then unleashed until the next election.\
 Tokenized policies couple representation with legislation, instead.\
-Unlike the political machine, tokens hold the reins of governance.
+Unlike political governance, utility tokens govern the protocol.
+
+> A popular split is for utility tokens to govern the actual protocol;\
+and governance tokens, its future ramifications and instantiations.\
+At first glance, protocols finance their own fork, called a new version.\
+Governance tokens capture the brand value of a protocol for shareholders.\
+Buying votes has long been called a fraud when public utility comes first.\
+Governance tokens are just big business.\
+Regular users vote when they swap protocols, instead.\
+They drive the price of utility tokens and the policies they represent.
 
 *just imagine*
 

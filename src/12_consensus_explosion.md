@@ -34,7 +34,7 @@ A single rule is a single best.\
 Central regulation excludes economic minorities.\
 Power concentration is also a concentration of hard opinions.\
 Parallel jurisdictions depolarize society; no winner takes it all.\
-Conflicting issues are due to the monopoly of the Law;\
+Conflicting issues arise from the monopoly of the Law;\
 which is financed by another monopoly: the issuance of currency.\
 Horizontal accessibility is a process of decentralization.\
 This process will bring a diversity of rules and opinions.\

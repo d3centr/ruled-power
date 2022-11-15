@@ -17,15 +17,15 @@ The growing Economy widened wealth gaps while scaling.\
 Decentralized networks display an interesting countertrend.\
 They show the potential to redefine wealth and power dynamics.\
 More distribution revolves around contribution rather than privilege.\
-Tokens give rights, unlike selfish meritocracy and pre-defined rules.\
+Tokens give rights, not the other way around.\
 Earned authority grow from disinterested and active commitment.\
-Self-organized meritocracies prosper thanks to independent contributors.\
+Peer-to-peer organizations prosper thanks to independent contributors.\
 They are free to collaborate on unmet and random needs where they see fit.\
 They are the active citizens working on public utility for their own good.\
-Merit alignment with market value ensures a consensual prioritization.\
-Busywork incentivized to preserve central administration does not pay.\
-People's impact is magnified in permissionlessness and leveraged globally.\
-Synergies are built into decentralized management by price systems.\
+The merit granted for shared value ensures a consensual prioritization.\
+Synergies govern the decentralized management of price systems.\
+Petty busywork preserving central administration can't compete or sustain.\
+Developers' permissionless impact ripples throughout global markets.\
 Token exchanges are not only the key to open participation and demand.\
 The pricing mechanism creates trust into a collaborative capacity.\
 All protocol participants have skin in the game.\

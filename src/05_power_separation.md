@@ -32,7 +32,7 @@ Suboptimization introduces particular system conditions in core processes.
 
 Controlled but unoptimized variability of subsystems builds up resilience.\
 \- We will see how to manage it at the end of the upcoming chapter. -\
-In the last principle, a system designer must leave room for change.\
+In the last principle [1], a system designer must leave room for change.\
 The inner loop regulates unexpected and new knowledge within structures.\
 Laws are centralized on the outer but inner rules must be decentralized.\
 Opportunity costs of suboptimization are even bigger than temporary gains.\
@@ -53,6 +53,8 @@ on the first page of "The New Economics":
 That is how subsystemic collaboration is maintained within a bigger whole.\
 The exercise of a well delimited function optimizes its public utility;\
 rather than its internals, which are merely extraneous artifacts.
+
+[1] **4.** Change System: Inner Loop, *d. from data to actions* 
 
 ### Three Pillars
 
@@ -87,7 +89,7 @@ Their reason to exist, uniting purpose and common utility is the Law.\
 It is an intrigue for a mind aware of the three economic subsystems:\
 the legislative is devising protocol rules;\
 the executive is taking actions according to the protocol;\
-and the judiciary is resolving compliance to demands.\
+and the judiciary is resolving compliance.\
 What if we'd turn the legislative into an autonomous organization;\
 the judiciary into a market;\
 and put the executive into an automated and incorruptible software?\
@@ -104,7 +106,7 @@ And the usability of price systems would decrease, harming the ecosystem.
 
 - The executive decentralizes the legislative.
 - The legislative centralizes the executive.
-- The judiciary balances opposite powers.
+- The judiciary aligns the legislative and the executive.
 
 ### Functional Powers
 

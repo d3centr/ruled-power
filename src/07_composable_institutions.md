@@ -88,6 +88,10 @@ With regard to rules, they form together a balanced protocol.\
 In the simplest terms and at the highest level:\
 separated powers to make, do and use rules guarantee ecosystem integrity. 
 
+> MEV[^1] is a violation of power separation between Doer and User powers.
+
+[^1] *Maximal Extractable Value* stolen from users by manipulating blocks.
+
 The three powers arise from an agency of interdependent subsystems.\
 Therefore, no single institution governs a power alone.\
 Each power is bounded by subsystems in one-to-two relationships.\

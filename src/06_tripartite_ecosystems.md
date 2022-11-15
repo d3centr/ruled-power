@@ -262,11 +262,9 @@ Theoretical likelihood prevails over valuable methodology.\
 Governing institutions do not have skin in the game.\
 They should be regulated.
 
-A decision scientist addressed a crowd in Toledo:
+A decision scientist addressed a crowd of PhDs in Toledo:
 > If you have done something smart, this is stupid. You cannot reproduce.
 
 Indeed, we would rather govern with intelligent protocols.\
-Most of the time, we cannot rely on one-sided stupidity.\
-Economies fall down the repressive bias of a judiciary;\
-when rewarded tokenomies rise in a tendency to act.
+Most of the time, we cannot rely on stupidity.
 
