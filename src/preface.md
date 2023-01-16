@@ -190,7 +190,7 @@ Why I was listening to a requiem was not obvious to me on that night.\
 Friends opined that nocturnes for piano would have been more appropriate.\
 Nietzsche's spirit was singing the death of God.
 
-April 2022, two weeks BC from Easter, I woke up from the disillusioned.\
+Two weeks before Easter 2022, I woke up from the disillusioned.\
 I recalled what Skobelev told me four years earlier in Toledo.
 
 His last remark was encouraging, he said:
